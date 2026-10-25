@@ -6,7 +6,7 @@ Access Google's Gemini AI directly from Vicinae. Ask questions, get answers, and
 
 Before using the extension, you need to set up your Gemini API key:
 
-1. Get an API key from [Google AI Studio](https://aistudio.google.com/app/api-keys).
+1. Get an API key from [Google AI Studio](ai.studio/api-keys).
 2. In Vicinae, open the extension preferences for **Gemini AI**.
 3. Enter your API key in the **Gemini API Key** field.
 
