@@ -68,7 +68,7 @@
     {
       "name": "apiKey",
       "title": "Gemini API Key",
-      "description": "Your API key for the Gemini API from ai.studio/api-keys",
+      "description": "Your API key for the Gemini API from https://ai.studio/api-keys",
       "type": "password",
       "required": true
     },
